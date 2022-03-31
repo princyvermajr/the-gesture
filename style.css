@@ -1,0 +1,29 @@
+body{
+    background-color:purple;
+    text-align: center;
+    font-size: 23px;
+    color:white;
+}
+#d1{
+    float: left;
+}
+#d2{
+    float: right;
+}
+#webcamera,#snapshot{
+    height: 350px;
+    width: 350px;
+    border: 5px black dashed;
+}
+#btn1,#btn2{
+    background-color:green ;
+    color: black;
+    border-radius: 4px;
+}
+#divtitle{
+    background-color:cornflowerblue;
+    height: 70px;
+    width: 300px;
+    border-radius: 5px;
+    float: center;
+}
